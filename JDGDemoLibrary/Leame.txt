@@ -1,0 +1,3 @@
+Para el Proyecto en modo Librería, necesitamos bajar el repositorio de maven de la pagína de productos de Redhat
+y agregarlo a nuesto repositorio local
+* jboss-datagrid-6.X.X-maven-repository.zip

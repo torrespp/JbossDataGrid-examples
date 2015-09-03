@@ -1,0 +1,5 @@
+Agregar en la carpeta installs el software de Jboss Data Grid modo servidor versión 6.4.1
+jboss-datagrid-6.4.1-server.zip
+
+_
+JL
